@@ -1,0 +1,28 @@
+{
+  "name": "user-profile-store",
+  "description": "Microservice to access Couchbase default bucket, back-end for user profile and blog app",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Ennio Noventa",
+  "main": "app.js",
+  "engines": {
+  "node": ">=4.3.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "couchbase": "^2.3.5",
+    "express": "^4.15.4",
+    "uuid": "^3.1.0"
+  }
+}
