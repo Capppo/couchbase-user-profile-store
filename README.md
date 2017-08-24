@@ -23,3 +23,8 @@ This docs contains a SELECT query to get some informations without change the ap
 ```
 insert the json example
 ```
+
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
