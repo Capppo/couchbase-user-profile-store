@@ -8,7 +8,7 @@ This microservice is a bridge to Couchbase instance: the first thing you must to
 
 **/setdb/your-db-server-public-ip-address**
 
-if connection succesfull the json response is something like that
+if connection successful the json response is something like that
 
 **DB ready, found xx 'query' type docs** (see beyond for more details on this docs)
 
