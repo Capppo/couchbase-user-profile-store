@@ -18,7 +18,7 @@ if connection succesfull the json response is something like that
 
 ## The 'query' type docs
 
-This docs contains a SELECT query to get some information without change the app. Usefull example are:
+This docs contains a SELECT query to get some informations without change the app. Usefull example are:
 
 ```
 insert the json example
